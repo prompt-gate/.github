@@ -1,1 +1,1 @@
-# .github
+# 🧠 Prompt Gate
